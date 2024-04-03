@@ -17,3 +17,6 @@ h1{
 	max-height: 75vh;
 	max-width: 75vw;
 }
+.gallerygroup img{
+	height: 200px;
+}
