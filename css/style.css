@@ -1,7 +1,90 @@
 body{
 	background-color: #000;
 	color: #FFF;
+	font-family: Oswald;
 }
+.blur{
+	backdrop-filter: blur(5px);
+}
+nav{
+	height: 140px;
+	width: 100%;
+	padding: 10px;
+	display: flex;
+	justify-content: space-between;
+	align-items: end;
+	background: linear-gradient(180deg, #ff8080a0 0%, #ffe08080 25%, #80a0ff60 50%, #ffffff40 75%, #00000000 100%); 
+	box-sizing: border-box;
+	position: fixed;
+	top: 0;
+	text-transform: uppercase;
+}
+main{
+	margin-top: 140px;
+}
+nav>div{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: fit-content;
+	width: 75vw;
+}
+#homepage{
+	display: block;
+	height: 100px;
+	box-sizing: border-box;
+	overflow: hidden;
+	width: auto;
+}
+#homepage img{
+	height: 100%;
+}
+.submenu{
+	width: 100px;
+	position: relative;
+	padding: 0 0 10px;
+	text-align: left;
+	box-sizing: border-box;
+}
+ul {
+	top: 2rem;
+	display: none;
+	text-align: left;
+	height: fit-content;
+	border-radius: 1rem;
+	background-color: #00000020;
+	padding: 5px;
+}
+li{
+	display: block;
+	padding: 10px;
+	width: 84px;
+	box-sizing: border-box;
+}
+.submenu:hover ul, ul:hover{
+	display: block;
+	position: absolute;
+	flex-direction: column;
+	overflow: visible;
+}
+form{
+	display: inline-block;
+	background-color: #20202040;
+	width: fit-content;
+	padding: 8px 12px;
+	border-radius: 50px;
+}
+input{
+	color: #FFF;
+	caret-color: #00000000 ;
+}
+#send{
+	display: none;
+}
+label{
+	text-transform: uppercase;
+}
+
 h1{
 	text-transform:uppercase;
 	display: block;
@@ -44,6 +127,11 @@ h2{
 .flagvignette span{
 	padding: 10px;
 }
+footer{
+	height: 100px;
+	background: linear-gradient(180deg, #ff808000 0%, #ff808080 30%, #ff808080 100%);
+}
+
 @media screen and (min-width:480px) and (max-width:767px) {
 	.flagvignette{
 		min-width: 34%;
@@ -60,7 +148,7 @@ h2{
 		height: 10vw;
 	}
 }
-@media screen and (min-width:1080px) {
+@media screen and (min-width:1080px) and (max-width:1919px)  {
 	body{
 		width: 1080px;
 		margin-left: auto;
@@ -70,6 +158,25 @@ h2{
 		min-width: 21%;
 	}
 	.gallerygroup img{
-		height: 10vw;
+		height: 108px;
+	}
+}
+@media screen and (min-width:1920px){
+	body{
+		max-width: 1920px;
+		width: 1920px;
+		margin-left: auto;
+		margin-right: auto;
+		font-size: 24px;
+	}
+	h1{
+		font-size: 2em;
+	}
+	.flagvignette{
+		min-width: 21%;
+		margin-bottom: calc(1em + 19px);
+	}
+	.gallerygroup img{
+		height: 192px;
 	}
 }
