@@ -150,7 +150,7 @@ footer{
 	}
 }
 @media screen and (min-width:1080px) and (max-width:1919px)  {
-	body{
+	main{
 		width: 1080px;
 		margin-left: auto;
 		margin-right: auto;
@@ -163,7 +163,7 @@ footer{
 	}
 }
 @media screen and (min-width:1920px){
-	body{
+	main{
 		max-width: 1920px;
 		width: 1920px;
 		margin-left: auto;
