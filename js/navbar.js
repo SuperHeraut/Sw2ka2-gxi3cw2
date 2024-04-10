@@ -42,11 +42,11 @@ let searchLabel;
 
 // link to homepage via clickable image
 homepage = document.createElement("a");
-homepage.setAttribute("href", "./index.html");
+homepage.setAttribute("href", "../master/index.html");
 homepage.setAttribute("id", "homepage");
 NAVBAR.appendChild(homepage);
 icon = document.createElement("img");
-icon.setAttribute("src","./img/flags/icon.svg");
+icon.setAttribute("src","../img/flags/icon.svg");
 homepage.appendChild(icon);
 
 // navbar menu
@@ -68,7 +68,7 @@ menuNatFlags.appendChild(subMenuNatFlags);
 	subMenuNatFlags.appendChild(itemNatFlags1);
 
 	itemNatFlags1link = document.createElement("a");
-	itemNatFlags1link.setAttribute("href", "./kogxi3-lipjoux2.html");
+	itemNatFlags1link.setAttribute("href", "../master/national-flags-list.html");
 	itemNatFlags1link.innerHTML = "lipj&oacute;&ubreve;";
 	itemNatFlags1.appendChild(itemNatFlags1link);
 
@@ -76,7 +76,7 @@ menuNatFlags.appendChild(subMenuNatFlags);
 	subMenuNatFlags.appendChild(itemNatFlags2);
 
 	itemNatFlags2link = document.createElement("a");
-	itemNatFlags2link.setAttribute("href", "./index.html");
+	itemNatFlags2link.setAttribute("href", "../master/index.html");
 	itemNatFlags2link.innerHTML = "duc&egrave;&ubreve;";
 	itemNatFlags2.appendChild(itemNatFlags2link);
 
@@ -94,7 +94,7 @@ menuFlagColours.appendChild(subMenuFlagColours);
 	subMenuFlagColours.appendChild(FlagColoursRed);
 
 	FlagColoursRedlink = document.createElement("a");
-	FlagColoursRedlink.setAttribute("href", "./hxoqse-kogxi.html");
+	FlagColoursRedlink.setAttribute("href", "../colours/red.html");
 	FlagColoursRedlink.innerHTML = "&hcirc;oq";
 	FlagColoursRed.appendChild(FlagColoursRedlink);
 
@@ -102,7 +102,7 @@ menuFlagColours.appendChild(subMenuFlagColours);
 	subMenuFlagColours.appendChild(FlagColoursOrange);
 
 	FlagColoursOrangelink = document.createElement("a");
-	FlagColoursOrangelink.setAttribute("href", "./index.html");
+	FlagColoursOrangelink.setAttribute("href", "../colours/orange.html");
 	FlagColoursOrangelink.innerHTML = "&ccirc;y&ubreve;aqse";
 	FlagColoursOrange.appendChild(FlagColoursOrangelink);
 
@@ -110,7 +110,7 @@ menuFlagColours.appendChild(subMenuFlagColours);
 	subMenuFlagColours.appendChild(FlagColoursYellow);
 
 	FlagColoursYellowlink = document.createElement("a");
-	FlagColoursYellowlink.setAttribute("href", "./index.html");
+	FlagColoursYellowlink.setAttribute("href", "../colours/yellow.html");
 	FlagColoursYellowlink.innerHTML = "&ubreve;aqse";
 	FlagColoursYellow.appendChild(FlagColoursYellowlink);
 
@@ -118,7 +118,7 @@ menuFlagColours.appendChild(subMenuFlagColours);
 	subMenuFlagColours.appendChild(FlagColoursGreen);
 
 	FlagColoursGreenlink = document.createElement("a");
-	FlagColoursGreenlink.setAttribute("href", "./index.html");
+	FlagColoursGreenlink.setAttribute("href", "../colours/green.html");
 	FlagColoursGreenlink.innerHTML = "loq&emacr;se";
 	FlagColoursGreen.appendChild(FlagColoursGreenlink);
 
@@ -126,7 +126,7 @@ menuFlagColours.appendChild(subMenuFlagColours);
 	subMenuFlagColours.appendChild(FlagColoursCyan);
 
 	FlagColoursCyanlink = document.createElement("a");
-	FlagColoursCyanlink.setAttribute("href", "./index.html");
+	FlagColoursCyanlink.setAttribute("href", "../colours/cyan.html");
 	FlagColoursCyanlink.innerHTML = "c&#789;&igrave;nse";
 	FlagColoursCyan.appendChild(FlagColoursCyanlink);
 
@@ -134,7 +134,7 @@ menuFlagColours.appendChild(subMenuFlagColours);
 	subMenuFlagColours.appendChild(FlagColoursBlue);
 
 	FlagColoursBluelink = document.createElement("a");
-	FlagColoursBluelink.setAttribute("href", "./index.html");
+	FlagColoursBluelink.setAttribute("href", "../colours/blue.html");
 	FlagColoursBluelink.innerHTML = "l&emacr;se";
 	FlagColoursBlue.appendChild(FlagColoursBluelink);
 
@@ -142,7 +142,7 @@ menuFlagColours.appendChild(subMenuFlagColours);
 	subMenuFlagColours.appendChild(FlagColoursViolet);
 
 	FlagColoursVioletlink = document.createElement("a");
-	FlagColoursVioletlink.setAttribute("href", "./index.html");
+	FlagColoursVioletlink.setAttribute("href", "../colours/violet.html");
 	FlagColoursVioletlink.innerHTML = "c&#7811;q&emacr;se";
 	FlagColoursViolet.appendChild(FlagColoursVioletlink);
 
@@ -150,7 +150,7 @@ menuFlagColours.appendChild(subMenuFlagColours);
 	subMenuFlagColours.appendChild(FlagColoursWhite);
 
 	FlagColoursWhitelink = document.createElement("a");
-	FlagColoursWhitelink.setAttribute("href", "./index.html");
+	FlagColoursWhitelink.setAttribute("href", "../colours/white.html");
 	FlagColoursWhitelink.innerHTML = "base";
 	FlagColoursWhite.appendChild(FlagColoursWhitelink);
 
@@ -158,7 +158,7 @@ menuFlagColours.appendChild(subMenuFlagColours);
 	subMenuFlagColours.appendChild(FlagColoursBlack);
 
 	FlagColoursBlacklink = document.createElement("a");
-	FlagColoursBlacklink.setAttribute("href", "./index.html");
+	FlagColoursBlacklink.setAttribute("href", "../colours/black.html");
 	FlagColoursBlacklink.innerHTML = "hese";
 	FlagColoursBlack.appendChild(FlagColoursBlacklink);
 
@@ -166,7 +166,7 @@ menuFlagColours.appendChild(subMenuFlagColours);
 	subMenuFlagColours.appendChild(FlagColoursElse);
 
 	FlagColoursElselink = document.createElement("a");
-	FlagColoursElselink.setAttribute("href", "./index.html");
+	FlagColoursElselink.setAttribute("href", "../colours/else-colour.html");
 	FlagColoursElselink.innerHTML = "&gcirc;&imacr;t&#789;&agrave;";
 	FlagColoursElse.appendChild(FlagColoursElselink);
 

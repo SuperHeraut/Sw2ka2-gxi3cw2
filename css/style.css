@@ -1,3 +1,7 @@
+@font-face {
+	font-family: Oswald;
+	src: url(../fonts/Oswald-VariableFont_wght.ttf);
+}
 body{
 	background-color: #000;
 	color: #FFF;
@@ -28,6 +32,7 @@ nav>div{
 	align-items: center;
 	height: fit-content;
 	width: 75vw;
+	font-size: 1.5rem;
 }
 #homepage{
 	display: block;
@@ -163,19 +168,25 @@ footer{
 	}
 }
 @media screen and (min-width:1920px){
+	nav>div{
+		font-size: 1.5rem;
+}
 	main{
 		max-width: 1920px;
 		width: 1920px;
 		margin-left: auto;
 		margin-right: auto;
-		font-size: 24px;
 	}
 	h1{
-		font-size: 2em;
+		font-size: 3rem;
+	}
+	h2{
+		font-size: 2rem;
 	}
 	.flagvignette{
 		min-width: 21%;
 		margin-bottom: calc(1em + 19px);
+		font-size: 1.5rem;
 	}
 	.gallerygroup img{
 		height: 192px;
