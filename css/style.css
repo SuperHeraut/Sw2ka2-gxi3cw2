@@ -7,6 +7,9 @@ body{
 	color: #FFF;
 	font-family: Oswald;
 }
+header{
+	z-index: 2;
+}
 .blur{
 	backdrop-filter: blur(5px);
 }
@@ -137,13 +140,55 @@ footer{
 	height: 100px;
 	background: linear-gradient(180deg, #ff808000 0%, #ff808080 30%, #ff808080 100%);
 }
-
+.bigmap{
+	margin: auto;
+	font-size: 1.5rem;
+	display: flex;
+	position: relative;
+	justify-content: space-around;
+}
+.bigmap svg{
+	max-height: 75vh;
+	float: initial;
+	z-index: 0;
+}
+.bigmap label{
+	display: block;
+	width: fit-content;
+	position: absolute;
+	z-index: -2;
+}
+#labeleurasia,#labelafrica,#labelmiddleeast,#labelindies,#labeloceania,#labelnorthamerica,#labelsouthamerica{
+	color: #fff;
+}
+svg a{
+	opacity: 25%;
+	transition-duration: 1500ms;
+	z-index: 1;
+}
+svg a:hover{
+	opacity: 100%;
+	transition-duration: 500ms;
+}
 @media screen and (min-width:480px) and (max-width:767px) {
 	.flagvignette{
 		min-width: 34%;
 	}
 	.gallerygroup img{
 		height: 20vw;
+	}
+	.bigmap{
+		width: 100%;
+		font-size: 1.5rem;
+	}
+	.bigmap svg{
+		max-height: 75vh;
+		margin: auto;
+		width: 100%;
+	}
+	#labeleurope,#labelafrica,#labelmiddleeast,#labelindies,#labelasia,#labeloceania,#labelnorthamerica,#labelsouthamerica{
+		top: 36%;
+		left: 10%
 	}
 }
 @media screen and (min-width:768px) and (max-width:1079px) {
@@ -152,6 +197,19 @@ footer{
 	}
 	.gallerygroup img{
 		height: 10vw;
+	}
+	.bigmap{
+		width: 100%;
+		font-size: 1.5rem;
+	}
+	.bigmap svg{
+		max-height: 75vh;
+		margin: auto;
+		width: 100%;
+	}
+	#labeleurope,#labelafrica,#labelmiddleeast,#labelindies,#labelasia,#labeloceania,#labelnorthamerica,#labelsouthamerica{
+		top: 38%;
+		left: 20%
 	}
 }
 @media screen and (min-width:1080px) and (max-width:1919px)  {
@@ -166,11 +224,24 @@ footer{
 	.gallerygroup img{
 		height: 108px;
 	}
+	.bigmap{
+		width: 100%;
+		font-size: 1.5rem;
+	}
+	.bigmap svg{
+		max-height: 75vh;
+		width: 100%;
+		margin: auto;
+	}
+	#labeleurope,#labelafrica,#labelmiddleeast,#labelindies,#labelasia,#labeloceania,#labelnorthamerica,#labelsouthamerica{
+		top: 40%;
+		left: 10%;
+	}
 }
 @media screen and (min-width:1920px){
 	nav>div{
 		font-size: 1.5rem;
-}
+	}
 	main{
 		max-width: 1920px;
 		width: 1920px;
@@ -187,6 +258,50 @@ footer{
 		min-width: 21%;
 		margin-bottom: calc(1em + 19px);
 		font-size: 1.5rem;
+	}
+	.bigmap{
+		width: 100%;
+		font-size: 1.5rem;
+	}
+	.bigmap svg{
+		max-height: 75vh;
+		margin: auto;
+	}
+	#labeleurasia{
+		top: 37.5%;
+		left: 30%;
+		transform: rotate(15deg);
+		font-size: 3rem;
+		letter-spacing:0.5rem;
+	}
+	#labelafrica{
+		bottom: 38%;
+		left: 23%;
+		font-size: 2rem;
+		letter-spacing:0.2rem;
+	}
+	#labelmiddleeast{
+		top: 51%;
+		left: 28%;
+		font-size: 1rem;
+		transform: rotate(55deg);
+	}
+	#labelindies{
+		bottom: 44%;
+		left: 35%;
+		font-size: 1rem;
+	}
+	#labeloceania{
+		bottom: 20%;
+		left: 43%;
+	}
+	#labelnorthamerica{
+		top: 45%;
+		right: 31.5%;
+	}
+	#labelsouthamerica{
+		bottom: 25%;
+	right: 23.5%;
 	}
 	.gallerygroup img{
 		height: 192px;

@@ -76,7 +76,7 @@ menuNatFlags.appendChild(subMenuNatFlags);
 	subMenuNatFlags.appendChild(itemNatFlags2);
 
 	itemNatFlags2link = document.createElement("a");
-	itemNatFlags2link.setAttribute("href", "../master/index.html");
+	itemNatFlags2link.setAttribute("href", "../master/continents.html");
 	itemNatFlags2link.innerHTML = "duc&egrave;&ubreve;";
 	itemNatFlags2.appendChild(itemNatFlags2link);
 
