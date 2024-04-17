@@ -54,6 +54,10 @@ homepage.appendChild(icon);
 mainMenu = document.createElement("div");
 NAVBAR.appendChild(mainMenu);
 
+// in page navigation
+
+
+
 // submenu 1
 menuNatFlags = document.createElement("div");
 menuNatFlags.setAttribute("class", "submenu");

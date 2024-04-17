@@ -119,6 +119,7 @@ h2{
 }
 .gallerygroup img{
 	height: 25vw;
+	object-fit:contain;
 }
 .galleryrow{
 	display: flex;
@@ -135,6 +136,7 @@ h2{
 }
 .flagvignette span{
 	padding: 10px;
+	text-transform: uppercase;
 }
 footer{
 	height: 100px;
