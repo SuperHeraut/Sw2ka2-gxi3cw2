@@ -8,7 +8,7 @@ body{
 	font-family: Oswald;
 }
 header{
-	z-index: 2;
+	z-index: 2 !important;
 }
 .blur{
 	backdrop-filter: blur(5px);
@@ -148,11 +148,14 @@ footer{
 	display: flex;
 	position: relative;
 	justify-content: space-around;
+	z-index: -1 !important;
 }
 .bigmap svg{
 	max-height: 75vh;
 	float: initial;
-	z-index: 0;
+	background-color: #ffff0080;
+	backdrop-filter: blur(5px);
+	z-index: -1 !important;
 }
 .bigmap label{
 	display: block;
@@ -229,11 +232,13 @@ svg a:hover{
 	.bigmap{
 		width: 100%;
 		font-size: 1.5rem;
+		z-index: -1 !important;
 	}
 	.bigmap svg{
 		max-height: 75vh;
 		width: 100%;
 		margin: auto;
+		z-index: -1 !important;
 	}
 	#labeleurope,#labelafrica,#labelmiddleeast,#labelindies,#labelasia,#labeloceania,#labelnorthamerica,#labelsouthamerica{
 		top: 40%;
@@ -264,10 +269,12 @@ svg a:hover{
 	.bigmap{
 		width: 100%;
 		font-size: 1.5rem;
+		z-index: -1 !important;
 	}
 	.bigmap svg{
 		max-height: 75vh;
 		margin: auto;
+		z-index: -1 !important;
 	}
 	#labeleurasia{
 		top: 37.5%;
