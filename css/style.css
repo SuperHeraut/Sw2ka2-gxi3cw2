@@ -148,14 +148,14 @@ footer{
 	display: flex;
 	position: relative;
 	justify-content: space-around;
-	z-index: -1 !important;
+	z-index: 0;
 }
 .bigmap svg{
 	max-height: 75vh;
 	float: initial;
 	background-color: #ffff0080;
-	backdrop-filter: blur(5px);
-	z-index: -1 !important;
+	/* backdrop-filter: blur(5px); */
+	z-index: -1;
 }
 .bigmap label{
 	display: block;
@@ -165,6 +165,54 @@ footer{
 }
 #labeleurasia,#labelafrica,#labelmiddleeast,#labelindies,#labeloceania,#labelnorthamerica,#labelsouthamerica{
 	color: #fff;
+}
+#labelasia{
+	top: 37.5%;
+	left: 35%;
+	transform: rotate(15deg);
+	font-size: 3rem;
+	letter-spacing:0.5rem;
+}
+#labeleurope{
+	top: 37%;
+	left: 23.5%;
+	transform: rotate(-15deg);
+	font-size: 2rem;
+	letter-spacing:0.5rem;
+}
+#labelafrica{
+	bottom: 35%;
+	left: 23%;
+	font-size: 2.5rem;
+	letter-spacing:0.2rem;
+	transform: rotate(35deg);
+}
+#labelmiddleeast{
+	top: 52%;
+	left: 29.25%;
+	font-size: 1rem;
+	transform: rotate(55deg);
+	line-height: 1.2rem;
+}
+#labelindies{
+	bottom: 44%;
+	left: 35%;
+	font-size: 1rem;
+}
+#labeloceania{
+	bottom: 20%;
+	left: 43%;
+}
+#labelnorthamerica{
+	top: 42.5%;
+	right: 30%;
+	font-size: 2rem;
+}
+#labelsouthamerica{
+	bottom: 26%;
+	right: 24%;
+	font-size: 1.75rem;
+	transform: rotate(45deg);
 }
 svg a{
 	opacity: 25%;
@@ -191,9 +239,53 @@ svg a:hover{
 		margin: auto;
 		width: 100%;
 	}
-	#labeleurope,#labelafrica,#labelmiddleeast,#labelindies,#labelasia,#labeloceania,#labelnorthamerica,#labelsouthamerica{
-		top: 36%;
-		left: 10%
+	#labelasia{
+		top: 37.5%;
+		left: 35%;
+		transform: rotate(15deg);
+		font-size: 3rem;
+		letter-spacing:0.5rem;
+	}
+	#labeleurope{
+		top: 37%;
+		left: 23.5%;
+		transform: rotate(-15deg);
+		font-size: 2rem;
+		letter-spacing:0.5rem;
+	}
+	#labelafrica{
+		bottom: 35%;
+		left: 23%;
+		font-size: 2.5rem;
+		letter-spacing:0.2rem;
+		transform: rotate(35deg);
+	}
+	#labelmiddleeast{
+		top: 52%;
+		left: 29.25%;
+		font-size: 1rem;
+		transform: rotate(55deg);
+		line-height: 1.2rem;
+	}
+	#labelindies{
+		bottom: 44%;
+		left: 35%;
+		font-size: 1rem;
+	}
+	#labeloceania{
+		bottom: 20%;
+		left: 43%;
+	}
+	#labelnorthamerica{
+		top: 42.5%;
+		right: 30%;
+		font-size: 2rem;
+	}
+	#labelsouthamerica{
+		bottom: 26%;
+		right: 24%;
+		font-size: 1.75rem;
+		transform: rotate(45deg);
 	}
 }
 @media screen and (min-width:768px) and (max-width:1079px) {
@@ -212,9 +304,53 @@ svg a:hover{
 		margin: auto;
 		width: 100%;
 	}
-	#labeleurope,#labelafrica,#labelmiddleeast,#labelindies,#labelasia,#labeloceania,#labelnorthamerica,#labelsouthamerica{
-		top: 38%;
-		left: 20%
+	#labelasia{
+		top: 37.5%;
+		left: 35%;
+		transform: rotate(15deg);
+		font-size: 3rem;
+		letter-spacing:0.5rem;
+	}
+	#labeleurope{
+		top: 37%;
+		left: 23.5%;
+		transform: rotate(-15deg);
+		font-size: 2rem;
+		letter-spacing:0.5rem;
+	}
+	#labelafrica{
+		bottom: 35%;
+		left: 23%;
+		font-size: 2.5rem;
+		letter-spacing:0.2rem;
+		transform: rotate(35deg);
+	}
+	#labelmiddleeast{
+		top: 52%;
+		left: 29.25%;
+		font-size: 1rem;
+		transform: rotate(55deg);
+		line-height: 1.2rem;
+	}
+	#labelindies{
+		bottom: 44%;
+		left: 35%;
+		font-size: 1rem;
+	}
+	#labeloceania{
+		bottom: 20%;
+		left: 43%;
+	}
+	#labelnorthamerica{
+		top: 42.5%;
+		right: 30%;
+		font-size: 2rem;
+	}
+	#labelsouthamerica{
+		bottom: 26%;
+		right: 24%;
+		font-size: 1.75rem;
+		transform: rotate(45deg);
 	}
 }
 @media screen and (min-width:1080px) and (max-width:1919px)  {
@@ -232,17 +368,59 @@ svg a:hover{
 	.bigmap{
 		width: 100%;
 		font-size: 1.5rem;
-		z-index: -1 !important;
 	}
 	.bigmap svg{
 		max-height: 75vh;
 		width: 100%;
 		margin: auto;
-		z-index: -1 !important;
 	}
-	#labeleurope,#labelafrica,#labelmiddleeast,#labelindies,#labelasia,#labeloceania,#labelnorthamerica,#labelsouthamerica{
-		top: 40%;
-		left: 10%;
+	#labelasia{
+		top: 37.5%;
+		left: 35%;
+		transform: rotate(15deg);
+		font-size: 3rem;
+		letter-spacing:0.5rem;
+	}
+	#labeleurope{
+		top: 37%;
+		left: 23.5%;
+		transform: rotate(-15deg);
+		font-size: 2rem;
+		letter-spacing:0.5rem;
+	}
+	#labelafrica{
+		bottom: 35%;
+		left: 23%;
+		font-size: 2.5rem;
+		letter-spacing:0.2rem;
+		transform: rotate(35deg);
+	}
+	#labelmiddleeast{
+		top: 52%;
+		left: 29.25%;
+		font-size: 1rem;
+		transform: rotate(55deg);
+		line-height: 1.2rem;
+	}
+	#labelindies{
+		bottom: 44%;
+		left: 35%;
+		font-size: 1rem;
+	}
+	#labeloceania{
+		bottom: 20%;
+		left: 43%;
+	}
+	#labelnorthamerica{
+		top: 42.5%;
+		right: 30%;
+		font-size: 2rem;
+	}
+	#labelsouthamerica{
+		bottom: 26%;
+		right: 24%;
+		font-size: 1.75rem;
+		transform: rotate(45deg);
 	}
 }
 @media screen and (min-width:1920px){
@@ -266,34 +444,33 @@ svg a:hover{
 		margin-bottom: calc(1em + 19px);
 		font-size: 1.5rem;
 	}
-	.bigmap{
-		width: 100%;
-		font-size: 1.5rem;
-		z-index: -1 !important;
-	}
-	.bigmap svg{
-		max-height: 75vh;
-		margin: auto;
-		z-index: -1 !important;
-	}
-	#labeleurasia{
+	#labelasia{
 		top: 37.5%;
-		left: 30%;
+		left: 35%;
 		transform: rotate(15deg);
 		font-size: 3rem;
 		letter-spacing:0.5rem;
 	}
-	#labelafrica{
-		bottom: 38%;
-		left: 23%;
+	#labeleurope{
+		top: 37%;
+		left: 23.5%;
+		transform: rotate(-15deg);
 		font-size: 2rem;
+		letter-spacing:0.5rem;
+	}
+	#labelafrica{
+		bottom: 35%;
+		left: 23%;
+		font-size: 2.5rem;
 		letter-spacing:0.2rem;
+		transform: rotate(35deg);
 	}
 	#labelmiddleeast{
-		top: 51%;
-		left: 28%;
+		top: 52%;
+		left: 29.25%;
 		font-size: 1rem;
 		transform: rotate(55deg);
+		line-height: 1.2rem;
 	}
 	#labelindies{
 		bottom: 44%;
@@ -305,12 +482,71 @@ svg a:hover{
 		left: 43%;
 	}
 	#labelnorthamerica{
-		top: 45%;
-		right: 31.5%;
+		top: 42.5%;
+		right: 30%;
+		font-size: 2rem;
 	}
 	#labelsouthamerica{
-		bottom: 25%;
-	right: 23.5%;
+		bottom: 26%;
+		right: 24%;
+		font-size: 1.75rem;
+		transform: rotate(45deg);
+	}
+	.bigmap{
+		width: 100%;
+		font-size: 1.5rem;
+	}
+	.bigmap svg{
+		max-height: 75vh;
+		margin: auto;
+	}
+	#labelasia{
+		top: 37.5%;
+		left: 35%;
+		transform: rotate(15deg);
+		font-size: 3rem;
+		letter-spacing:0.5rem;
+	}
+	#labeleurope{
+		top: 37%;
+		left: 23.5%;
+		transform: rotate(-15deg);
+		font-size: 2rem;
+		letter-spacing:0.5rem;
+	}
+	#labelafrica{
+		bottom: 35%;
+		left: 23%;
+		font-size: 2.5rem;
+		letter-spacing:0.2rem;
+		transform: rotate(35deg);
+	}
+	#labelmiddleeast{
+		top: 52%;
+		left: 29.25%;
+		font-size: 1rem;
+		transform: rotate(55deg);
+		line-height: 1.2rem;
+	}
+	#labelindies{
+		bottom: 44%;
+		left: 35%;
+		font-size: 1rem;
+	}
+	#labeloceania{
+		bottom: 20%;
+		left: 43%;
+	}
+	#labelnorthamerica{
+		top: 42.5%;
+		right: 30%;
+		font-size: 2rem;
+	}
+	#labelsouthamerica{
+		bottom: 26%;
+		right: 24%;
+		font-size: 1.75rem;
+		transform: rotate(45deg);
 	}
 	.gallerygroup img{
 		height: 192px;
