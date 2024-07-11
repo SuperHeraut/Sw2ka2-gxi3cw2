@@ -2,16 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="2436"
+   width="2736"
    height="1800"
-   viewBox="0 0 644.525 476.25001"
+   viewBox="0 0 723.9 476.25001"
    version="1.1"
    id="svg8"
-   inkscape:export-filename="C:\Users\厂永刄先生\Documents\GXI3CW2\,pjóŭ\Gabon.png"
+   inkscape:export-filename="C:\Users\厂永刄先生\Documents\GXI3CW2\JáÈŭcèŭ\Èŭmen\Í\意軍.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
-   sodipodi:docname="KA1BOQ.svg"
+   sodipodi:docname="ZAQPI2JA2.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.30222223"
-     inkscape:cx="1217.647"
-     inkscape:cy="899.99998"
+     inkscape:zoom="0.21358472"
+     inkscape:cx="1371.821"
+     inkscape:cy="1278.1813"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -69,6 +69,12 @@
      id="layer1"
      transform="translate(-6.7279798,-418.33036)">
     <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path847"
+       d="M 475.49406,894.58036 H 16.25298 v -476.25 l 459.24108,0 z"
+       style="fill:#55d400;fill-opacity:1;stroke:none;stroke-width:1.27917px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.51166773px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 16.25298,418.33036 H 6.7279798 v 476.25 H 16.25298 Z"
        id="path1079"
@@ -77,20 +83,32 @@
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
-       id="path884"
-       d="m 651.25299,577.08036 v -158.75 H 16.25298 v 158.75 z"
-       style="fill:#009a44;fill-opacity:1;stroke:none;stroke-width:1.20601237px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       id="path1"
+       d="M 730.62798,894.58036 H 645.58334 V 588.41964 h 85.04464 z"
+       style="fill:#ff7f2a;fill-opacity:1;stroke:none;stroke-width:0.353876px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
-       id="path831"
-       d="m 651.25299,894.58036 v -158.75 H 16.25298 v 158.75 z"
-       style="fill:#667fff;fill-opacity:1;stroke:none;stroke-width:1.27916932px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       id="path2"
+       d="M 645.58334,894.58036 H 560.5387 V 588.41964 h 85.04464 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.353876px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
-       style="fill:#ffdf00;fill-opacity:1;stroke:none;stroke-width:1.27916932px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 651.25299,735.83036 H 16.25298 v -158.75 h 635.00001 z"
-       id="path819"
+       sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       id="path3"
+       d="M 560.5387,894.58036 H 475.49406 V 588.41964 h 85.04464 z"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.353876px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4"
+       d="M 730.62798,588.41964 H 475.49406 l 0,-170.08928 255.13392,0 z"
+       style="fill:#55d400;fill-opacity:1;stroke:none;stroke-width:1.27917px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path5"
+       d="M 715.74521,548.02343 H 490.37683 v -89.29686 h 225.36838 z"
+       style="fill:#ff7f2a;fill-opacity:0.32096475;stroke:none;stroke-width:0.871106px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>
