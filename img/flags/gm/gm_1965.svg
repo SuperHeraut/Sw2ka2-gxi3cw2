@@ -7,11 +7,11 @@
    viewBox="0 0 723.9 476.25001"
    version="1.1"
    id="svg8"
-   inkscape:export-filename="C:\Users\厂永刄先生\Documents\GXI3CW2\,pjóŭ\Djibouti.png"
+   inkscape:export-filename="C:\Users\厂永刄先生\Documents\GXI3CW2\,pjóŭ\Gambie.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
-   sodipodi:docname="CXIPU2DI3.svg"
+   sodipodi:docname="gm_1965_001-000.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.21370339"
-     inkscape:cx="1172.1854"
-     inkscape:cy="1247.0556"
+     inkscape:zoom="0.30222223"
+     inkscape:cx="1368.1985"
+     inkscape:cy="898.34557"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -40,7 +40,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:showpageshadow="false"
-     inkscape:snap-intersection-paths="false"
+     inkscape:snap-intersection-paths="true"
      inkscape:object-paths="false"
      inkscape:pagecheckerboard="true"
      inkscape:snap-smooth-nodes="false"
@@ -78,25 +78,31 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path884"
-       d="m 16.25298,894.58036 714.375,0 v -238.125 l -301.93041,10e-6 z"
+       d="m 730.62798,577.08036 v -158.75 h -714.375 v 158.75 z"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.27916932px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path831"
+       d="m 730.62798,894.58036 v -158.75 h -714.375 v 158.75 z"
        style="fill:#00a800;fill-opacity:1;stroke:none;stroke-width:1.27916932px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
-       style="fill:#57c7ff;fill-opacity:1;stroke:none;stroke-width:1.27916932px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 428.69757,656.45536 h 301.93041 v -238.125 l -714.375,0 z"
-       id="path817"
+       style="fill:#0055ff;fill-opacity:1;stroke:none;stroke-width:1.27916932px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 730.62798,709.37203 H 16.25298 V 603.5387 h 714.375 z"
+       id="path819"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
-       sodipodi:nodetypes="ccccccccccccccc"
+       sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
-       id="path819"
-       d="m 229.22462,631.92716 -46.65545,33.89717 17.8208,54.84678 -46.65546,-33.89717 -46.65545,33.89717 17.8208,-54.84678 -46.655458,-33.89717 h 57.669308 l 17.8208,-54.84678 17.8208,54.84678 z M 16.25298,418.33036 v 476.25 L 428.69757,656.45537 Z"
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.51166773px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       id="path817"
+       d="m 730.62798,577.08036 h -714.375 l 0,26.45834 h 714.375 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.27916932px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
-       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.51166773px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 229.22462,631.92716 -46.65545,33.89717 17.8208,54.84678 -46.65546,-33.89717 -46.65545,33.89717 17.8208,-54.84678 -46.655458,-33.89717 h 57.669308 l 17.8208,-54.84678 17.8208,54.84678 z"
-       id="path829"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.27916932px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 730.62798,709.37203 h -714.375 l 0,26.45833 h 714.375 z"
+       id="path820"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccc" />
+       sodipodi:nodetypes="ccccc" />
   </g>
 </svg>
