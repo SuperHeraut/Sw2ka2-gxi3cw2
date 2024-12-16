@@ -155,9 +155,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.20775337"
-     inkscape:cx="873.63202"
-     inkscape:cy="589.64144"
+     inkscape:zoom="0.83101348"
+     inkscape:cx="1336.3201"
+     inkscape:cy="909.13086"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -207,9 +207,9 @@
        inkscape:connector-curvature="0"
        id="path884"
        d="m 690.94049,299.26786 h -793.75001 v 158.75 h 793.75001 z"
-       style="fill:#0000a8;fill-opacity:1;stroke:none;stroke-width:2.33543301px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:2.33543301px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
-       style="fill:#0000a8;fill-opacity:1;stroke:none;stroke-width:2.33543301px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:2.33543301px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 690.94049,775.51786 h -793.75001 v -158.75 h 793.75001 z"
        id="path823"
        inkscape:connector-curvature="0"
@@ -447,7 +447,7 @@
        inkscape:connector-curvature="0"
        id="path919"
        d="m 250.75921,562.39566 13.97278,-24.2244 c 0,0 2.71778,1.39997 4.1905,1.39997 1.47272,0 4.1905,-1.39997 4.1905,-1.39997 0,0 2.71778,1.39997 4.1905,1.39997 1.47272,0 4.1905,-1.39997 4.1905,-1.39997 0,0 2.71778,1.39997 4.1905,1.39997 1.47272,0 4.1905,-1.39997 4.1905,-1.39997 0,0 2.71778,1.39997 4.1905,1.39997 1.47272,0 4.1905,-1.39997 4.1905,-1.39997 0,0 2.71778,1.39997 4.1905,1.39997 1.47272,0 4.1905,-1.39997 4.1905,-1.39997 0,0 2.71778,1.39997 4.1905,1.39997 1.47272,0 4.1905,-1.39997 4.1905,-1.39997 0,0 2.71778,1.39997 4.1905,1.39997 1.47272,0 4.1905,-1.39997 4.1905,-1.39997 l 13.97278,24.2244 z"
-       style="fill:#0000a8;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        sodipodi:nodetypes="cczczczczczczczccc" />
     <path
        style="opacity:1;fill:url(#radialGradient868);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.44002283;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
