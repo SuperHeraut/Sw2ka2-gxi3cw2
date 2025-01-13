@@ -45,7 +45,7 @@
      inkscape:pagecheckerboard="true"
      inkscape:snap-smooth-nodes="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1057"
+     inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -68,7 +68,7 @@
      id="layer1"
      transform="translate(102.80952,-299.26786)">
     <path
-       style="fill:#e00010;fill-opacity:1;stroke:none;stroke-width:1.19319px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.19319px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 849.69049,299.26786 H -102.80952 V 775.51785 H 849.69049 Z"
        id="path822"
        inkscape:connector-curvature="0"
