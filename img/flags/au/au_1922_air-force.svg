@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24532455"
-     inkscape:cx="1685.5223"
+     inkscape:cx="3866.3069"
      inkscape:cy="849.89456"
      inkscape:document-units="px"
      inkscape:current-layer="g863"
@@ -82,25 +82,6 @@
          id="path868"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
-      <circle
-         style="fill:#012169;fill-opacity:1;stroke:none;stroke-width:0.992002;stroke-linejoin:bevel;stroke-miterlimit:155;paint-order:markers fill stroke"
-         id="path6"
-         cx="1325.9406"
-         cy="775.51794"
-         r="357.18753" />
-      <circle
-         style="fill:#ffffff;stroke:none;stroke-width:0.595202;stroke-linejoin:bevel;stroke-miterlimit:155;paint-order:markers fill stroke"
-         id="circle6"
-         cx="1325.9406"
-         cy="775.51794"
-         r="214.31253" />
-      <circle
-         style="fill:#e4002b;fill-opacity:1;stroke:none;stroke-width:0.198401;stroke-linejoin:bevel;stroke-miterlimit:155;paint-order:markers fill stroke"
-         id="circle7"
-         cx="-1325.9406"
-         cy="-775.51794"
-         r="71.437515"
-         transform="scale(-1)" />
       <path
          style="fill:#7fb9ce;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 849.69057,1251.768 -952.50009,0 -10e-5,-476.25017 952.50009,3e-5 z"
@@ -257,6 +238,27 @@
          id="path899"
          d="M 849.69037,489.76786 H 421.06534 v -190.5 h -95.25 v 190.5 h -428.625 v 95.25 h 428.625 v 190.5 h 95.25 v -190.5 h 428.62503 z"
          style="fill:#e4002b;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         style="fill:#012169;fill-opacity:1;stroke:none;stroke-width:0.992002;stroke-linejoin:bevel;stroke-miterlimit:155;paint-order:markers fill stroke"
+         id="circle2"
+         cx="-1325.9406"
+         cy="-775.51794"
+         r="357.18753"
+         transform="scale(-1)" />
+      <circle
+         style="fill:#ffffff;stroke:none;stroke-width:0.661338;stroke-linejoin:bevel;stroke-miterlimit:155;paint-order:markers fill stroke"
+         id="circle3"
+         cx="-1325.9406"
+         cy="-775.51794"
+         r="238.125"
+         transform="scale(-1)" />
+      <circle
+         style="fill:#e4002b;fill-opacity:1;stroke:none;stroke-width:0.330669;stroke-linejoin:bevel;stroke-miterlimit:155;paint-order:markers fill stroke"
+         id="circle1"
+         cx="-1325.9406"
+         cy="-775.51794"
+         r="119.06251"
+         transform="scale(-1)" />
     </g>
   </g>
 </svg>
