@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="476.25mm"
+   height="476.25mm"
+   viewBox="0 0 476.25 476.25"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="pt_1914_roundel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="0.36213173"
+     inkscape:cx="898.84418"
+     inkscape:cy="749.72717"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-54.19809,-17.484085)">
+    <path
+       id="circle3"
+       style="fill:#ff0000;fill-opacity:1;stroke-width:2.50352;stroke-linejoin:round;stroke-miterlimit:3.9"
+       d="m 54.19809,255.60909 c 10e-7,131.51281 106.61219,238.125 238.125,238.125 131.51281,0 238.125,-106.61219 238.125,-238.125 0,-131.51281 -106.61219,-238.125005 -238.125,-238.125005 -131.51281,0 -238.125001,106.612195 -238.125,238.125005 z"
+       sodipodi:nodetypes="zzzzz" />
+    <path
+       id="path3"
+       style="fill:#006600;stroke-width:1.25177;stroke-linejoin:round;stroke-miterlimit:3.9;fill-opacity:1"
+       d="m 411.38559,255.60909 a 119.0625,119.0625 0 0 1 -119.0625,119.0625 119.0625,119.0625 0 0 1 -119.0625,-119.0625 119.0625,119.0625 0 0 1 119.0625,-119.0625 119.0625,119.0625 0 0 1 119.0625,119.0625 z" />
+  </g>
+</svg>
