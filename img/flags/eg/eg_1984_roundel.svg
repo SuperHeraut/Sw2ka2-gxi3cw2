@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.42740678"
-     inkscape:cx="710.09636"
-     inkscape:cy="628.20716"
+     inkscape:cx="738.17266"
+     inkscape:cy="983.84027"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -81,7 +81,7 @@
     <path
        id="circle9"
        style="fill:#000000;fill-opacity:1;stroke-width:4.34116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:155;paint-order:stroke fill markers"
-       d="m 603.62799,846.95538 c 0,43.8376 35.5374,79.375 79.375,79.375 43.8376,0 79.375,-35.5374 79.375,-79.375 0,-43.8376 -35.5374,-79.375 -79.375,-79.375 -43.8376,0 -79.375,35.5374 -79.375,79.375 z"
+       d="m 762.37799,846.95538 c 0,43.8376 -35.5374,79.375 -79.375,79.375 -43.8376,0 -79.375,-35.5374 -79.375,-79.375 0,-43.8376 35.5374,-79.375 79.375,-79.375 43.8376,0 79.375,35.5374 79.375,79.375 z"
        sodipodi:nodetypes="zzzzz" />
   </g>
 </svg>
