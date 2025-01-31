@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.30222222"
-     inkscape:cx="517.83089"
-     inkscape:cy="1123.3456"
+     inkscape:cx="332.53677"
+     inkscape:cy="1106.8015"
      inkscape:document-units="px"
      inkscape:current-layer="g838"
      showgrid="false"
@@ -70,26 +70,27 @@
     <g
        id="g838">
       <circle
-         style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.861994;stroke-linejoin:round;stroke-miterlimit:5.2"
+         style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.861994;stroke-linejoin:round;stroke-miterlimit:5.2"
          id="path1"
          cx="254.37798"
          cy="537.39288"
          r="238.125" />
       <g
          id="g1"
-         transform="matrix(0.79999996,0,0,0.79999996,50.875606,107.47859)">
+         transform="matrix(0.88888884,0,0,0.88888884,28.264228,59.710367)"
+         style="fill:#b3b3b3;fill-opacity:1">
         <path
            sodipodi:nodetypes="ccccccccccccccccccccccccc"
            inkscape:connector-curvature="0"
            id="path825"
            d="m 189.00812,472.023 -23.92702,-89.29686 65.36984,65.36982 23.92704,-89.29686 23.92702,89.29686 65.36986,-65.36982 -23.92704,89.29688 89.2969,-23.92702 -65.36986,65.36984 89.29688,23.92704 -89.29688,23.92702 65.36984,65.36984 -89.29688,-23.92704 23.92704,89.29688 -65.36986,-65.36984 -23.92702,89.29688 -23.92704,-89.29688 -65.36984,65.36984 23.92702,-89.29686 -89.29688,23.92702 65.36986,-65.36986 -89.29688,-23.92702 89.29688,-23.92702 -65.36984,-65.36986 z"
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.529166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+           style="fill:#ababab;fill-opacity:1;stroke:none;stroke-width:0.529166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <path
            sodipodi:nodetypes="ssszsssszs"
            inkscape:connector-curvature="0"
            id="path827"
            d="m 165.08111,537.39285 c -2e-5,49.3173 39.97956,89.29688 89.29686,89.29688 49.31732,0 89.29688,-39.97958 89.29688,-89.29688 0,-49.3173 -39.97958,-89.29686 -89.29688,-89.29686 -49.31728,0 -89.29686,39.97956 -89.29686,89.29686 z m 190.5,0 c 0,55.89296 -45.31018,101.20314 -101.20314,101.20314 -55.89294,0 -101.20312,-45.3102 -101.20312,-101.20314 0,-55.89294 45.31018,-101.20312 101.20312,-101.20312 55.89296,0 101.20314,45.31018 101.20314,101.20312 z"
-           style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.446074;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+           style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.446074;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       </g>
     </g>
   </g>
