@@ -2,13 +2,6 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2736"
    height="1800"
    viewBox="0 0 723.9 476.25001"
@@ -17,8 +10,15 @@
    inkscape:export-filename="C:\Users\厂永刄先生\Documents\GXI3CW2\,pjóŭ\Burkina Faso.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="PU2CXI1NE-FASO.svg">
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="bf_1984.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.30222223"
-     inkscape:cx="1368"
-     inkscape:cy="900.00001"
+     inkscape:cx="1368.1985"
+     inkscape:cy="898.34557"
      inkscape:document-units="px"
      inkscape:current-layer="g832"
      showgrid="false"
@@ -44,13 +44,14 @@
      inkscape:object-paths="false"
      inkscape:pagecheckerboard="true"
      inkscape:snap-smooth-nodes="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="745"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:object-nodes="true"
-     inkscape:snap-nodes="true" />
+     inkscape:snap-nodes="true"
+     inkscape:deskcolor="#505050" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -59,7 +60,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -78,7 +78,7 @@
          d="m -102.80952,299.26786 h -9.525 v 476.25 h 9.525 z"
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.51166773px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
-         style="fill:#18a83d;fill-opacity:1;stroke:none;stroke-width:2.55833864px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#00a800;fill-opacity:1;stroke:none;stroke-width:2.55833864px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="M 611.56547,537.39286 H 296.10792 l -12.89529,9.36898 17.82079,54.84678 -46.65543,-33.89718 -46.65546,33.89718 17.8208,-54.84677 -12.89531,-9.36899 h -315.45754 v 238.125 h 714.37499 z"
          id="path880"
          inkscape:connector-curvature="0"
@@ -88,9 +88,9 @@
          inkscape:connector-curvature="0"
          id="path882"
          d="m 611.56547,299.26786 h -714.37499 v 238.125 h 315.45754 l -33.76016,-24.5282 h 57.66933 l 17.8208,-54.84677 17.8208,54.84677 h 57.6693 l -33.76017,24.5282 h 315.45755 z"
-         style="fill:#df2140;fill-opacity:1;stroke:none;stroke-width:2.55833864px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:2.55833864px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
-         style="fill:#ffc821;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+         style="fill:#ffc000;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
          d="m 207.72253,601.60862 17.8208,-54.84677 -46.65547,-33.89719 h 57.66933 l 17.8208,-54.84677 17.8208,54.84677 h 57.6693 l -46.65546,33.89718 17.82079,54.84678 -46.65543,-33.89718 z"
          id="path825"
          inkscape:connector-curvature="0"
