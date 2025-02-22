@@ -11,7 +11,7 @@
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
-   sodipodi:docname="de_1918_roundel.svg"
+   sodipodi:docname="de_1935_roundel.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.30222222"
-     inkscape:cx="861.94854"
-     inkscape:cy="597.24265"
+     inkscape:cx="1793.3824"
+     inkscape:cy="1199.4485"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -68,12 +68,14 @@
      id="layer1"
      transform="translate(-661.73872,172.02092)">
     <path
+       id="path4"
+       style="fill:#000000;stroke-width:0.459641;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.9"
+       d="M 780.8012,-172.02092 V -52.958419 H 661.73872 V 185.1666 H 780.8012 v 119.06248 h 238.1251 V 185.1666 h 119.0624 V -52.958419 H 1018.9263 V -172.02092 Z"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <path
        id="path5"
        style="fill:#ffffff;stroke-width:0.459641;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.9"
-       d="M 846.94705 -172.02092 L 846.94705 13.187414 L 661.73872 13.187414 L 661.73872 119.02075 L 846.94705 119.02075 L 846.94705 304.22908 L 952.78039 304.22908 L 952.78039 119.02075 L 1137.9887 119.02075 L 1137.9887 13.187414 L 952.78039 13.187414 L 952.78039 -172.02092 L 846.94705 -172.02092 z " />
-    <path
-       id="path4"
-       style="fill:#000000;stroke-width:0.325015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.9"
-       d="M 873.40539 -172.02092 L 873.40539 39.645747 L 661.73872 39.645747 L 661.73872 92.562414 L 873.40539 92.562414 L 873.40539 304.22908 L 926.32205 304.22908 L 926.32205 92.562414 L 1137.9887 92.562414 L 1137.9887 39.645747 L 926.32205 39.645747 L 926.32205 -172.02092 L 873.40539 -172.02092 z " />
+       d="M 794.03037,304.22908 V 171.93743 H 661.73872 v -39.68751 h 171.97916 v 171.97916 z m 211.66673,0 V 171.93743 h 132.2916 V 132.24992 H 966.00954 v 171.97916 z m 0,-476.25 v 132.291668 h 132.2916 v 39.6875 H 966.00954 V -172.02092 Z m -211.66673,0 V -39.729252 H 661.73872 v 39.6875 H 833.71788 V -172.02092 Z"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccc" />
   </g>
 </svg>
