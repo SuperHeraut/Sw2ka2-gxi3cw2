@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.1767767"
-     inkscape:cx="1238.8511"
-     inkscape:cy="1173.7973"
+     inkscape:cx="1241.6795"
+     inkscape:cy="1173.7972"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -73,7 +73,7 @@
        inkscape:connector-curvature="0"
        id="path822"
        d="m -102.80952,299.26786 h 952.5 l 2e-5,476.25 h -952.50002 z"
-       style="fill:#cd0000;fill-opacity:1;stroke:none;stroke-width:1.29632px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.29632px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.51166773px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -102.80952,299.26786 h -9.525 v 476.25 h 9.525 z"
@@ -81,7 +81,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <g
-       id="g12">
+       id="g12"
+       style="fill:#ffc000;fill-opacity:1">
       <text
          xml:space="preserve"
          style="font-weight:bold;font-size:70.5556px;line-height:1;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif Bold';text-align:center;letter-spacing:13.2292px;word-spacing:0.79375px;text-orientation:sideways;text-anchor:middle;fill:#ffc000;fill-opacity:1;stroke-width:0.9525;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:155"
@@ -91,7 +92,7 @@
          transform="rotate(-10)"><tspan
            sodipodi:role="line"
            id="tspan9"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.5556px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT Bold';letter-spacing:13.2292px;stroke-width:0.9525"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.5556px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT Bold';letter-spacing:13.2292px;stroke-width:0.9525;fill:#ffc000;fill-opacity:1"
            x="-18.664131"
            y="403.56342">P</tspan></text>
       <text
@@ -103,7 +104,7 @@
          transform="rotate(10)"><tspan
            sodipodi:role="line"
            id="tspan8"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.5556px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT Bold';letter-spacing:13.2292px;stroke-width:0.9525"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.5556px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT Bold';letter-spacing:13.2292px;stroke-width:0.9525;fill:#ffc000;fill-opacity:1"
            x="173.7692"
            y="378.62277">S</tspan></text>
       <text
@@ -115,7 +116,7 @@
          transform="rotate(-30)"><tspan
            sodipodi:role="line"
            id="tspan10"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.5556px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT Bold';letter-spacing:13.2292px;stroke-width:0.9525"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.5556px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT Bold';letter-spacing:13.2292px;stroke-width:0.9525;fill:#ffc000;fill-opacity:1"
            x="-209.03897"
            y="360.98941">L</tspan></text>
       <text
@@ -127,12 +128,13 @@
          transform="rotate(30)"><tspan
            sodipodi:role="line"
            id="tspan7"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.5556px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT Bold';letter-spacing:13.2292px;stroke-width:0.9525"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.5556px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT Bold';letter-spacing:13.2292px;stroke-width:0.9525;fill:#ffc000;fill-opacity:1"
            x="346.42908"
            y="289.17578">R</tspan></text>
       <g
          id="g5"
-         transform="matrix(1.315453,0,0,1.315453,2.3852577,-104.44621)">
+         transform="matrix(1.315453,0,0,1.315453,2.3852577,-104.44621)"
+         style="fill:#ffc000;fill-opacity:1">
         <path
            style="fill:#ffc000;fill-opacity:1;stroke-width:0.9525;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:155"
            d="M 24.230967,486.92744 C 81.866469,534.77106 144.42507,467.6997 55.940475,410.26056 l 7.340857,-0.52917 c 109.901558,60.48298 9.586254,148.17194 -45.328718,78.6014 z m 2.849274,12.18212 c -3.176421,9.55217 -18.657183,25.03935 -29.2910628,29.29107 l -5.3505517,-5.35055 C -3.309654,512.41619 12.177525,496.93543 21.729689,493.75901 Z"
