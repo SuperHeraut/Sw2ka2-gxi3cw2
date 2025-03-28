@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.12266228"
-     inkscape:cx="-191.58294"
-     inkscape:cy="1553.0447"
+     inkscape:zoom="0.24532456"
+     inkscape:cx="328.13673"
+     inkscape:cy="1228.9842"
      inkscape:document-units="px"
      inkscape:current-layer="g863"
      showgrid="false"
@@ -71,7 +71,7 @@
        id="g863"
        transform="matrix(0.49999994,0,0,0.49999994,-51.404766,149.63395)">
       <circle
-         style="fill:#012169;fill-opacity:1;stroke:none;stroke-width:1.32267;stroke-linejoin:bevel;stroke-miterlimit:155;paint-order:markers fill stroke"
+         style="fill:#0000a8;fill-opacity:1;stroke:none;stroke-width:1.32267;stroke-linejoin:bevel;stroke-miterlimit:155;paint-order:markers fill stroke"
          id="path6"
          cx="1445.0031"
          cy="894.58044"
@@ -83,7 +83,7 @@
          cy="894.58044"
          r="285.75006" />
       <circle
-         style="fill:#c8102e;fill-opacity:1;stroke:none;stroke-width:0.529067;stroke-linejoin:bevel;stroke-miterlimit:155;paint-order:markers fill stroke"
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.529067;stroke-linejoin:bevel;stroke-miterlimit:155;paint-order:markers fill stroke"
          id="circle7"
          cx="-1445.0031"
          cy="-894.58044"
