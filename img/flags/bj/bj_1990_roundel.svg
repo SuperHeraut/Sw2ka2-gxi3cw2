@@ -75,7 +75,7 @@
        sodipodi:nodetypes="zzzzz" />
     <path
        id="circle1"
-       style="fill:#00a800;stroke-width:0.233537;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.9;stroke-dasharray:0.700613, 0.700613"
+       style="fill:#008000;stroke-width:0.233537;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.9;stroke-dasharray:0.700613, 0.700613;fill-opacity:1"
        d="m 182.94048,751.70538 c -118.361527,0 -214.312505,-95.95097 -214.312505,-214.3125 0,-118.36153 95.950978,-214.3125 214.312505,-214.3125 z"
        sodipodi:nodetypes="czcc" />
     <path
