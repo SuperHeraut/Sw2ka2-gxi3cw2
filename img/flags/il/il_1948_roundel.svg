@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.16518519"
-     inkscape:cx="1153.2511"
-     inkscape:cy="1116.9282"
+     inkscape:zoom="0.2075"
+     inkscape:cx="775.90361"
+     inkscape:cy="1216.8675"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -67,18 +67,15 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(14.930969,-299.26788)">
-    <circle
-       style="fill:#ffffff;fill-opacity:1;stroke-width:4.61428;stroke-linecap:round;stroke-miterlimit:15.4"
+    <path
        id="path1"
-       cx="223.19403"
-       cy="537.39288"
-       r="238.125" />
+       style="fill:#ffffff;fill-opacity:1;stroke-width:4.61428;stroke-linecap:round;stroke-miterlimit:15.4"
+       d="m -14.930969,537.39288 c 0,131.51281 106.612193,238.125 238.124999,238.125 131.51281,0 238.125,-106.61219 238.125,-238.125 0,-131.51281 -106.61219,-238.125 -238.125,-238.125 -131.512806,0 -238.124999,106.61219 -238.124999,238.125 z M 277.04096,444.12725 h 107.69388 l -53.84694,93.26563 53.84694,93.26562 -107.69388,-10e-6 -53.84693,93.26564 -53.84693,-93.26564 H 61.65322 L 115.50015,537.39288 61.653223,444.12725 H 169.3471 l 53.84693,-93.26562 z"
+       sodipodi:nodetypes="ssszsccccccccccccc" />
     <path
        id="path2"
-       style="fill:#0038b8;fill-opacity:1;stroke-width:4.7625;stroke-linecap:round;stroke-miterlimit:15.4"
-       inkscape:transform-center-x="-1.0456881e-06"
-       transform="matrix(0.35866303,0,0,0.35866303,-146.81947,976.49604)"
-       d="m 1031.6466,-1777.5477 159.7153,276.635 h 319.4306 l -159.7153,276.635 159.7153,276.63501 -319.4306,-3e-5 -159.7153,276.63503 -159.71529,-276.63503 -319.4306,1e-5 159.7153,-276.63499 -159.71529,-276.635 h 319.4306 z"
+       style="fill:#0038b8;fill-opacity:1;stroke-width:4.61428;stroke-linecap:round;stroke-miterlimit:15.4"
+       d="m 277.04096,444.12725 h 107.69388 l -53.84694,93.26563 53.84694,93.26562 -107.69388,-10e-6 -53.84693,93.26564 -53.84693,-93.26564 H 61.65322 L 115.50015,537.39288 61.653223,444.12725 H 169.3471 l 53.84693,-93.26562 z"
        sodipodi:nodetypes="ccccccccccccc" />
   </g>
 </svg>
