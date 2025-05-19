@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.31937654"
-     inkscape:cx="812.52054"
-     inkscape:cy="950.28896"
+     inkscape:cx="753.02964"
+     inkscape:cy="1031.6976"
      inkscape:document-units="px"
      inkscape:current-layer="g863"
      showgrid="false"
@@ -71,23 +71,28 @@
        id="g863"
        transform="matrix(0.49999994,0,0,0.49999994,-51.404766,149.63395)">
       <path
-         style="color:#000000;fill:#ce1126;fill-opacity:1;stroke-width:3.02321;stroke-linecap:round;stroke-miterlimit:155;-inkscape-stroke:none"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke-width:3.02321;stroke-linecap:round;stroke-miterlimit:155;-inkscape-stroke:none"
          d="m 2666.6635,881.2692 -118.2123,363.8244 h -382.5423 l 309.4834,224.8513 -118.2123,363.8244 309.4835,-224.8571 309.4893,224.8571 -118.2122,-363.8244 309.4833,-224.8513 h -382.5423 z"
          id="path1"
          sodipodi:nodetypes="ccccccccccc" />
+      <path
+         style="color:#000000;fill:#ce1126;fill-opacity:1;stroke-width:2.66927;stroke-linecap:round;stroke-miterlimit:155;-inkscape-stroke:none"
+         d="M 2666.6638,942.91326 2562.2912,1264.143 h -337.7563 l 273.2508,198.527 -104.3727,321.2297 273.2508,-198.532 273.256,198.532 -104.3726,-321.2297 273.2507,-198.527 h -337.7563 z"
+         id="path4"
+         sodipodi:nodetypes="ccccccccccc" />
       <circle
-         style="fill:#fcd116;fill-opacity:1;stroke:none;stroke-width:0.558528;stroke-linejoin:bevel;stroke-miterlimit:155;paint-order:markers fill stroke"
+         style="fill:#fcd116;fill-opacity:1;stroke:none;stroke-width:0.493139;stroke-linejoin:bevel;stroke-miterlimit:155;paint-order:markers fill stroke"
          id="circle3"
-         cx="-2666.6636"
+         cx="-2666.6638"
          cy="-1407.8055"
-         r="201.10664"
+         r="177.56215"
          transform="scale(-1)" />
       <circle
-         style="fill:#002b7f;fill-opacity:1;stroke:none;stroke-width:0.279264;stroke-linejoin:bevel;stroke-miterlimit:155;paint-order:markers fill stroke"
+         style="fill:#002b7f;fill-opacity:1;stroke:none;stroke-width:0.246569;stroke-linejoin:bevel;stroke-miterlimit:155;paint-order:markers fill stroke"
          id="circle1"
-         cx="-2666.6636"
+         cx="-2666.6638"
          cy="-1407.8055"
-         r="100.55333"
+         r="88.781082"
          transform="scale(-1)" />
     </g>
   </g>
