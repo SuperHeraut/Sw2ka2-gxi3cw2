@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.25"
-     inkscape:cx="1230"
-     inkscape:cy="1034"
+     inkscape:cx="1226"
+     inkscape:cy="1030"
      inkscape:document-units="px"
      inkscape:current-layer="g863"
      showgrid="false"
@@ -45,7 +45,7 @@
      inkscape:pagecheckerboard="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1057"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -72,7 +72,7 @@
        transform="matrix(0.49999994,0,0,0.49999994,-51.404766,149.63395)">
       <path
          id="path3"
-         style="fill:#00a800;stroke-width:1.32267;stroke-linejoin:bevel;stroke-miterlimit:155;paint-order:markers fill stroke;fill-opacity:1"
+         style="fill:#00843d;stroke-width:1.32267;stroke-linejoin:bevel;stroke-miterlimit:155;paint-order:markers fill stroke;fill-opacity:1"
          d="m 1325.9366,433.42052 c -205.0936,53.0532 -357.18361,239.80203 -357.18361,461.15992 0,262.45076 213.79931,476.25006 476.25001,476.25006 262.4508,0 476.2501,-213.7993 476.2501,-476.25006 0,-221.35789 -152.09,-408.10672 -357.1836,-461.15992 z"
          sodipodi:nodetypes="cszscc" />
       <path
@@ -81,7 +81,7 @@
          d="m 1746.6281,894.58044 a 301.62503,301.62503 0 0 1 -301.625,301.62506 301.62503,301.62503 0 0 1 -301.6251,-301.62506 301.62503,301.62503 0 0 1 301.6251,-301.62503 301.62503,301.62503 0 0 1 301.625,301.62503 z" />
       <path
          id="path6"
-         style="fill:#ff0000;stroke-width:1.32267;stroke-linejoin:bevel;stroke-miterlimit:155;paint-order:markers fill stroke;fill-opacity:1"
+         style="fill:#c8102e;stroke-width:1.32267;stroke-linejoin:bevel;stroke-miterlimit:155;paint-order:markers fill stroke;fill-opacity:1"
          d="m 1564.0695,433.42052 c -38.0735,-9.84879 -77.9736,-15.09014 -119.0665,-15.09014 -41.0928,0 -80.9929,5.24135 -119.0664,15.09014 l 71.984,461.15992 h 94.1649 z"
          sodipodi:nodetypes="czcccc" />
       <path
