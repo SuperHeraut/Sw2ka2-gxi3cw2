@@ -558,4 +558,7 @@ svg a:hover {
 	.gallerygroup img {
 		height: 192px;
 	}
+	.gallerygroup img.dualflag {
+		height: 96px !important;
+	}
 }
